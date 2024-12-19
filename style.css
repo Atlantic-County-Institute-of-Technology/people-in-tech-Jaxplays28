@@ -1,1 +1,11 @@
 /* Name, Date */
+body{
+font-family: 'Roboto',sans-serif;
+/* solid color background */
+backgorund: rgb(113, 121, 120);
+/* linear gradient background */
+background: linear-gradient(0deg, rgb(4, 35, 60) 0%, rgba(9,77,121,1) 35%, rgb(127, 208, 224));
+/* background using an image */
+background-image: url("/Background.jpg")
+
+}
